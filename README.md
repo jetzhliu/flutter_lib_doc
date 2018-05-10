@@ -21,7 +21,7 @@ iOS风格组件
 手势识别
 
 ## foundation
-框架基础
+[框架基础](./flutter/foundation.md)
 
 ## painting
 绘图库
